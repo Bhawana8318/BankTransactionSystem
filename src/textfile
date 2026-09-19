@@ -1,0 +1,18 @@
+yTkw5nEGh9SyEdlJ 
+whiole craeting cluster of mongodb we keep in mind that db usranme and apssword fill it carefully 
+
+mongodb+srv://bhawanasingh8318_db_user:yTkw5nEGh9SyEdlJ@cluster0.hzrh2dc.mongodb.net/backend
+ 
+
+ new here
+ bhawanasingh8318_db_user
+
+UoGbr9SqKP39AL1m
+
+
+
+mongodb+srv://bhawanasingh8318_db_user:UoGbr9SqKP39AL1m@bankproject.ndkyqys.mongodb.net/backend.net
+
+
+
+MONGO_URI=mongodb://bhawanasingh8318_db_user:UoGbr9SqKP39AL1m@bankproject-shard-00-00.ndkyqys.mongodb.net:27017,bankproject-shard-00-01.ndkyqys.mongodb.net:27017,bankproject-shard-00-02.ndkyqys.mongodb.net:27017/backend?ssl=true&replicaSet=atlas-xxxxxx-shard-0&authSource=admin
