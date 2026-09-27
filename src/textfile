@@ -1,25 +1,3 @@
-yTkw5nEGh9SyEdlJ 
-whiole creating cluster of mongodb we keep in mind that db usranme and pssword fill it carefully 
-
-
- 
-
- new here
- bhawanasingh8318_db_user
-
-UoGbr9SqKP39AL1m
-
-
-
-mongodb+srv://bhawanasingh8318_db_user:UoGbr9SqKP39AL1m@bankproject.ndkyqys.mongodb.net/backend.net
-
-
-
-MONGO_URI=mongodb://bhawanasingh8318_db_user:UoGbr9SqKP39AL1m@bankproject-shard-00-00.ndkyqys.mongodb.net:27017,bankproject-shard-00-01.ndkyqys.mongodb.net:27017,bankproject-shard-00-02.ndkyqys.mongodb.net:27017/backend?ssl=true&replicaSet=atlas-xxxxxx-shard-0&authSource=admin 
-
-
-
-
 middleware used:
 1. pre 
 2. expressJson
