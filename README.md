@@ -1,4 +1,4 @@
-# ⚡ Backend Ledger
+# ⚡ Banking Transaction System
 
 ### A transaction-driven financial backend built with Node.js, Express & MongoDB.
 
